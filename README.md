@@ -1,6 +1,6 @@
-### 👋
+Hi Everyone!👋
 
-My name's André Bourgeois! I'm a consultant, innovation strategist and (soon-to-be) software engineer with experience working in the financial sector and built environment. I have a passion for solving problems with novel solutions that incorporate IoT, mobile and web applications, Tiny ML, and Extended Reality. In particular, I'm increasingly interested in the relationship between or physical and digital worlds, and the blurred lines that exist there.
+I'm a consultant, innovation strategist and (soon-to-be) software engineer with experience working in the financial sector and built environment. I have a passion for solving problems with novel solutions that incorporate IoT, mobile and web applications, Tiny ML, and Extended Reality. In particular, I'm increasingly interested in the relationship between or physical and digital worlds, and the blurred lines that exist there.
 
 How can technology help to inform our understanding of the built and natural environments?
 How can it help to facilitate an interaction with our physical world?
