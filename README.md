@@ -1,5 +1,14 @@
 ### 👋
 
+My name's André Bourgeois! I'm a consultant, innovation strategist and (soon-to-be) software engineer with experience working in the financial sector and built environment. I have a passion for solving problems with novel solutions that incorporate IoT, mobile and web applications, Tiny ML, and Extended Reality. In particular, I'm increasingly interested in the relationship between or physical and digital worlds, and the blurred lines that exist there.
+
+How can technology help to inform our understanding of the built and natural environments?
+How can it help to facilitate an interaction with our physical world?
+What are the implications of these innovations on people and society?
+How can we ensure progression an equitable way that improves the quality of lives for users?
+
+I hope to see the answers to the questions and more througohut my life time.
+
 <!--
 **andrelbourgeois/andrelbourgeois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
