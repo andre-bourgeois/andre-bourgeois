@@ -1,4 +1,4 @@
-<img src="{[BadgeURLHere](https://github-readme-streak-stats.herokuapp.com/?user={andrelbourgeois})}" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user={andrelbourgeois}" />
 
 I'm a software developer and digital consultant with experience working in the financial sector but currently working in the built environment; advising on the developmment and implementation of smart spaces, buildings, and cities. I have a passion for solving problems with novel solutions that incorporate IoT, mobile and web applications, Tiny ML, and Extended Reality. In particular, I'm increasingly interested in the relationship between or physical and digital worlds, and the blurred lines that exist there. As such, I'm discovering how technology can help to inform our understanding of and facilitate an interaction with our built and natural environments!
 
