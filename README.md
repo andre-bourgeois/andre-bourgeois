@@ -6,7 +6,7 @@ Feel free to drop me a line about any of the above, always keen on an interestin
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user={andrelbourgeois}&theme={dark}" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?user={andrelbourgeois}&theme={dark}" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={andrelbourgeois}&theme={dark}" style="float: right" />
 
 <!--
 How can technology help to inform our understanding of the built and natural environments?  
