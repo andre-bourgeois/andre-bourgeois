@@ -7,7 +7,7 @@ Feel free to drop me a line about any of the above, always keen on an interestin
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user={andrelbourgeois}&theme={dark}" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={andrelbourgeois}&theme={dark}" style="float: right" />
-
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username={andrelbourgeois}&theme={dark})
 <!--
 How can technology help to inform our understanding of the built and natural environments?  
 How can it help to facilitate an interaction with our physical world?  
