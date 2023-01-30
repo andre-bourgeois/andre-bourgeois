@@ -1,6 +1,6 @@
 Hi Everyone!👋
 
-I'm an innovation strategist and software developer with experience working as a technology consultant in the built environment. I have a passion for solving problems with novel solutions that incorporate IoT, mobile and web applications, Tiny ML, and Extended Reality. In particular, I'm increasingly interested in the relationship between or physical and digital worlds, and the blurred lines that exist there. As such, I'm discovering how technology can help to inform our understanding of and facilitate an interaction with our built and natural environments!
+I'm a software developer and digital consultant with experience working in the financial sector but currently working in the built environment; advising on the developmment and implementation of smart spaces, buildings, and cities. I have a passion for solving problems with novel solutions that incorporate IoT, mobile and web applications, Tiny ML, and Extended Reality. In particular, I'm increasingly interested in the relationship between or physical and digital worlds, and the blurred lines that exist there. As such, I'm discovering how technology can help to inform our understanding of and facilitate an interaction with our built and natural environments!
 
 I'm currently exploring TinyML applications with Python, learning about Extended Reality and 3D Modelling with Unity and C#, and trying to polish off my [personal website](https://andrebourgeois.me)!
 
