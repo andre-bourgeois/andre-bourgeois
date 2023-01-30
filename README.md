@@ -5,7 +5,7 @@ I'm currently exploring TinyML applications with Python, learning about Extended
 Feel free to drop me a line about any of the above, always keen on an interesting conversation!
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user={andrelbourgeois}&theme={tokyonight}" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user={andrelbourgeois}&theme={onedark}" />
 
 <!--
 How can technology help to inform our understanding of the built and natural environments?  
