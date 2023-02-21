@@ -15,7 +15,6 @@ Feel free to drop me a line about any of the above, always keen on an interestin
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user={andrelbourgeois}&theme={dark}" />
-<img src="" />
 <!--
 How can technology help to inform our understanding of the built and natural environments?  
 How can it help to facilitate an interaction with our physical world?  
