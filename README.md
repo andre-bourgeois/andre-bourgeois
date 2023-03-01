@@ -11,7 +11,7 @@
 </p>  
 <br>
 
-👨‍💻 I'm a software developer working profssionally as a digital consultant in the built environment; advising on the developmment and implementation of smart spaces, buildings, and cities throughout the United Kingdom and parts of the Middle East.
+👨‍💻 I'm a software developer working profssionally as a digital consultant in the built environment; advising on the development and implementation of smart spaces, buildings, and cities throughout the United Kingdom and the Middle East.
 
 👨‍🎓 I'm also a part-time Master's student studying Connected Environments - learning how to design, build, and implement every section of an Internet of Things (IoT) network. More specifically, this degree touches on every layer of IoT networks to prepare students with the skillset to influence each stage of development.
 
