@@ -20,8 +20,6 @@ I have a passion for solving problems with novel solutions that incorporate IoT,
 I'm currently using Python to explore embedded machine learning, and furthering my knowledge of web and mobile applications through a personal study of ReactJS and Node.js while leveraging this knowledge to continue imptoving my [personal website](https://andrebourgeois.me)!
 
 Feel free to drop me a line about any of the above, always keen on an interesting conversation!
-
-<img src="https://streak-stats.demolab.com?user=andrelbourgeois&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D)" />
 <!--
 How can technology help to inform our understanding of the built and natural environments?  
 How can it help to facilitate an interaction with our physical world?  
