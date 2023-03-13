@@ -17,7 +17,9 @@
 
 I have a passion for solving problems with novel solutions that incorporate IoT, mobile and web applications, Tiny ML, and Extended Reality. In particular, I'm increasingly interested in the relationship between or physical and digital worlds, and the blurred lines that exist there.
 
-I'm currently using Python to explore embedded machine learning, and furthering my knowledge of web and mobile applications through a personal study of ReactJS and Node.js while leveraging this knowledge to continue imptoving my [personal website](https://andrebourgeois.me)!
+I'm currently exploring embedded machine learning with Python and Tensorflow by building a computer vision model that can detect the level of occupancy in public bicycle stands as well as furthering my knowledge of web development by learning ReactJS over at FreeCodeCamp with this [tutorial](https://www.freecodecamp.org/news/free-react-course-2022/)
+
+You can check out these things and more over at my [personal website](https://andrebourgeois.me)!
 
 <img src="https://streak-stats.demolab.com?user=andrelbourgeois&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D)" />
 
