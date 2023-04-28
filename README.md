@@ -4,7 +4,7 @@ I'm a software developer working professionally as a digital consultant, advisin
 
 I'm also a part-time Master's student studying Connected Environments, learning how to design, build, and implement Internet of Things (IoT) networks.
 
-This split between my time has been incredibly beneficial for my career. At university, I'm developing an understanding of the intricate details of IoT. At work, I'm applying these skills and understanding to some BIG projects!
+This split between my time has been incredibly beneficial for my career. At university, I'm developing an understanding of the intricate details of IoT. At work, I'm applying these skills to understand how IoT fits into the big picture on some BIG projects!
 
 🚀 Skills
 - Software development
