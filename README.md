@@ -1,27 +1,42 @@
-<h1> Hi, I'm André Bourgeois </h1>
+# Hi there! 👋 I'm André
 
-<p style="display:flex;">
-  <a href"https://andrebourgeois.me"><img src="https://user-images.githubusercontent.com/33913141/216035530-82fd5ad6-5a4d-4fea-a767-8bcc3a6d8228.png"          style="width:80px;"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/andrelbourgeois"><img src="https://user-images.githubusercontent.com/33913141/216035467-faa791a3-6f6f-4bf6-afd4-8df3a065d99b.png"  style="width:80px;"/></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://andrebourgeois.medium.com"><img src="https://user-images.githubusercontent.com/33913141/216035449-cf1649f3-1861-4c36-853f-f03868b64e8a.png"  style="width:80px;"/></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://angel.co/u/andrelbourgeois"><img src="https://user-images.githubusercontent.com/33913141/216035496-99fc5ea9-7549-40cd-9a41-aa37b1b58ae3.png" style="width:80px;"/></a>
-</p>  
-<br>
+I'm a software developer working professionally as a digital consultant, advising on the development and implementation of smart spaces, buildings, and cities throughout the United Kingdom and the Middle East.
 
-👨‍💻 I'm a software developer working professionally as a digital consultant; advising on the development and implementation of smart spaces, buildings, and cities throughout the United Kingdom and the Middle East.
+I'm also a part-time Master's student studying Connected Environments, learning how to design, build, and implement Internet of Things (IoT) networks.
 
-👨‍🎓 I'm also a part-time Master's student studying Connected Environments - learning how to design, build, and implement Internet of Things (IoT) networks.
+This split between my time has been incredibly beneficial for my career. At university, I'm developing an understanding of the intricate details of IoT. At work, I'm applying these skills and understanding to some BIG projects!
 
-I have a passion for solving problems with novel solutions that incorporate IoT, mobile and web applications, Tiny ML, and Extended Reality. In particular, I'm increasingly interested in the relationship between or physical and digital worlds, and the blurred lines that exist there.
+🚀 Skills
+- Software development
+- IoT development
+- Mobile and web application development
+- Tiny ML<br>- Smart spaces strategy
 
-I'm currently exploring embedded machine learning with Python and Tensorflow by building a computer vision model that can detect the level of occupancy in public bicycle stands as well as furthering my knowledge of web development by learning ReactJS over at FreeCodeCamp with this [tutorial](https://www.freecodecamp.org/news/free-react-course-2022/)
+🔭 Currently working on...<br>
+Building an object detection model with Python and Tensorflow to detect the level of occupancy in public bicycle bays. I recently<br>finished the first iteration of this project using the Edge Impulse platform, and you can check it out [here](https://github.com/andrelbourgeois/park-my-bike)! 
 
-You can check out these things and more over at my [personal website](https://andrebourgeois.me)!
+🌱 Learning<br>
+ReactJS at FreeCodeCamp with this [tutorial](https://www.freecodecamp.org/news/free-react-course-2022/), as well as how to integrate the ChatGPT API into mobile and web applications.
 
-<img src="https://streak-stats.demolab.com?user=andrelbourgeois&theme=dark&border_radius=0&date_format=j%20M%5B%20Y%5D)" />
+💬 Let's chat<br>
+If you want to get in touch, you can find me one my socials below, or you can head to my [personal website](https://www.andrebourgeois.me) to learn more about my work!
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrelbourgeois) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@andrelbourgeois) 
+
+## 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=andrelbourgeois&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=andrelbourgeois&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelbourgeois&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/andrebourgeois) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 How can technology help to inform our understanding of the built and natural environments?  
@@ -45,4 +60,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+<p style="display:flex;">
+  <a href"https://andrebourgeois.me"><img src="https://user-images.githubusercontent.com/33913141/216035530-82fd5ad6-5a4d-4fea-a767-8bcc3a6d8228.png"          style="width:80px;"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/andrelbourgeois"><img src="https://user-images.githubusercontent.com/33913141/216035467-faa791a3-6f6f-4bf6-afd4-8df3a065d99b.png"  style="width:80px;"/></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://andrebourgeois.medium.com"><img src="https://user-images.githubusercontent.com/33913141/216035449-cf1649f3-1861-4c36-853f-f03868b64e8a.png"  style="width:80px;"/></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://angel.co/u/andrelbourgeois"><img src="https://user-images.githubusercontent.com/33913141/216035496-99fc5ea9-7549-40cd-9a41-aa37b1b58ae3.png" style="width:80px;"/></a>
+</p>  -->
 
