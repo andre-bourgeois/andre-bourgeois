@@ -9,7 +9,7 @@ This split between my time has been incredibly beneficial for my career. At univ
 🚀 Skills
 - IoT system development
 - Web application development
-- Embedded and edge AI
+- Edge and embedded AI
 
 🔭 Currently working on...<br>
 Building an object detection model with Python and Tensorflow to detect the level of occupancy in public bicycle bays. I recently<br>finished the first iteration of this project using the Edge Impulse platform, and you can check it out [here](https://github.com/andrelbourgeois/park-my-bike)! 
