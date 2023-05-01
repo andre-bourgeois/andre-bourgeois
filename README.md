@@ -7,11 +7,9 @@ I'm also a part-time Master's student studying Connected Environments, learning 
 This split between my time has been incredibly beneficial for my career. At university, I'm developing an understanding of the intricate details of IoT. At work, I'm applying these skills to understand how IoT fits into the big picture on some BIG projects!
 
 🚀 Skills
-- Software development
-- IoT development
-- Mobile and web application development
-- Tiny ML
-- Smart spaces strategy
+- IoT system development
+- Web application development
+- Embedded and edge AI
 
 🔭 Currently working on...<br>
 Building an object detection model with Python and Tensorflow to detect the level of occupancy in public bicycle bays. I recently<br>finished the first iteration of this project using the Edge Impulse platform, and you can check it out [here](https://github.com/andrelbourgeois/park-my-bike)! 
