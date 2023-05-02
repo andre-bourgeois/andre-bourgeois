@@ -2,7 +2,7 @@
 
 I'm a software developer working professionally as a digital consultant, advising on the development and implementation of smart spaces, buildings, and cities throughout the United Kingdom and the Middle East.
 
-I'm also a part-time Master's student studying Connected Environments, learning how to design, build, and implement Internet of Things (IoT) networks.
+I'm also a Master's student studying Connected Environments, learning how to design, build, and implement Internet of Things (IoT) systems.
 
 This split between my time has been incredibly beneficial for my career. At university, I'm developing an understanding of the intricate details of IoT. At work, I'm applying these skills to understand how IoT fits into the bigger picture on some even bigger projects!
 
