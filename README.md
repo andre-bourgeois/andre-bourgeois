@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm André
 
-I'm a software developer working professionally as a digital consultant, advising on the development and implementation of smart spaces, buildings, and cities globally. I'm also a Master's student studying Connected Environments, learning how to design, build, and implement Internet of Things (IoT) systems.
-
-This split between my time has been incredibly beneficial for my career. At university, I'm developing an understanding of IoT in granular detail. At work, I'm applying these skills to understand how IoT fits into the bigger picture on some even bigger projects!
+I'm a software developer and technology strategist working as a digital consultant, advising on the development and implementation of smart spaces, buildings, and cities globally. I'm also in the final stages of a Master's degree, studying Connected Environments, and learning how to design, build, and implement IoT systems. Over the last several years, my skillset has broadened from embedded development out towards other parts of IoT systems, such as the cloud, websites and mobile applications, and even artificial intelligence!
 
 🚀 Skills
 - IoT system development
@@ -10,7 +8,10 @@ This split between my time has been incredibly beneficial for my career. At univ
 - Edge and embedded AI
 
 🔭 Currently working on...<br>
-Building an object detection model with Python and Tensorflow to detect the level of occupancy in public bicycle bays. I recently<br>finished the first iteration of this project using the Edge Impulse platform, and you can check it out [here](https://github.com/andrelbourgeois/park-my-bike)! 
+Understanding the feasability of a paired, infrared beam-break approach to monitoring occupancy in smart buildings.
+
+📡Recent projects...<br>
+Developed an object detection model with Python and Tensorflow to detect the level of occupancy in public bicycle bays. I recently<br>finished the first iteration of this project using the Edge Impulse platform, and you can check it out [here](https://github.com/andrelbourgeois/park-my-bike)! 
 
 🌱 Learning<br>
 ReactJS at FreeCodeCamp with this [tutorial](https://www.freecodecamp.org/news/free-react-course-2022/), as well as how to integrate the ChatGPT API into mobile and web applications.
