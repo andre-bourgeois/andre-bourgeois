@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm André
 
-I'm a software developer and technology strategist working as a digital consultant, advising on the development and implementation of smart spaces, buildings, and cities globally. I'm also in the final stages of a Master's degree, studying Connected Environments, and learning how to design, build, and implement IoT systems. Over the last several years, my skillset has broadened from embedded development out towards other parts of IoT systems, such as the cloud, websites and mobile applications, and even artificial intelligence!
+I'm a software developer and technology strategist working as a digital consultant, advising on the development and implementation of smart spaces, buildings, and cities globally. I recently completed Master's degree, studying Connected Environments, and learning how to design, build, and implement IoT systems. Over the last several years, my skillset has broadened from embedded development out towards other parts of IoT systems, such as the cloud, websites and mobile applications, and even artificial intelligence!
 
 🚀 Skills
 - IoT system development
