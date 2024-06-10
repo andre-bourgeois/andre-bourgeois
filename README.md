@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm André
 
-I'm a software developer and technology strategist working as a digital consultant, advising on the development and implementation of smart spaces, buildings, and cities globally. I recently completed Master's degree, studying Connected Environments, and learning how to design, build, and implement IoT systems. Over the last several years, my skillset has broadened from embedded development out towards other parts of IoT systems, such as the cloud, websites and mobile applications, and even artificial intelligence!
+I'm a software developer and technologist working as a consultant and helping my clients understand their built assets and business processes like Big Tech understands its products and services.
 
 🚀 Skills
-- IoT system development
+- IoT system development and deployment at scale
 - Web application development
 - Edge and embedded AI
 
@@ -32,14 +32,6 @@ If you want to get in touch, you can find me one my socials below, or you can he
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=andrelbourgeois&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=andrelbourgeois&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrelbourgeois&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/andrebourgeois) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
