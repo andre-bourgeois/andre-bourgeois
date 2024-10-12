@@ -8,7 +8,7 @@ I'm a software developer and technologist working as a consultant and helping my
 - Edge and embedded AI
 
 🔭 Currently working on...<br>
-Understanding the feasability of a paired, infrared beam-break approach to monitoring occupancy in smart buildings.
+Battling food insecurity by battling dopamine addiction with a new mobile application.
 
 📡Recent projects...<br>
 Developed an object detection model with Python and Tensorflow to detect the level of occupancy in public bicycle bays. I recently<br>finished the first iteration of this project using the Edge Impulse platform, and you can check it out [here](https://github.com/andrelbourgeois/park-my-bike)! 
