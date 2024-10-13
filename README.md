@@ -1,20 +1,20 @@
 # Hi there! 👋 I'm André
 
-I'm a software developer and technologist working as a consultant and helping my clients understand their built assets and business processes like Big Tech understands its products and services.
+I'm a software developer and digital technologist. I'm interestedin emerging technologies such as IoT, AI, and Blockchain and spend a lot of my free time pursuing projects that incorporate them.
 
 🚀 Skills
 - IoT system development and deployment at scale
-- Web application development
 - Edge and embedded AI
+- Web application development
 
 🔭 Currently working on...<br>
-Battling food insecurity by battling dopamine addiction with a new mobile application.
+Battling food insecurity by battling dopamine addiction with a new mobile application. I'm building with Expo and React Native and hoping to have a working prototype up and running by the end of 2024.
 
 📡Recent projects...<br>
-Developed an object detection model with Python and Tensorflow to detect the level of occupancy in public bicycle bays. I recently<br>finished the first iteration of this project using the Edge Impulse platform, and you can check it out [here](https://github.com/andrelbourgeois/park-my-bike)! 
+Developed an object detection model with Python and Tensorflow to detect the level of occupancy in public bicycle bays. The first iteration of this project was built using the Edge Impulse platform, and you can check it out [here](https://github.com/andrelbourgeois/park-my-bike)! 
 
 🌱 Learning<br>
-ReactJS at FreeCodeCamp with this [tutorial](https://www.freecodecamp.org/news/free-react-course-2022/), as well as how to integrate the ChatGPT API into mobile and web applications.
+AWS and Azure cloud platforms, before I start looking at Terraform.
 
 💬 Let's chat<br>
 If you want to get in touch, you can find me one my socials below, or you can head to my [personal website](https://www.andrebourgeois.me) to learn more about my work!
