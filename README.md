@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm André
 
-I'm a software developer and digital technologist. I'm interestedin emerging technologies such as IoT, AI, and Blockchain and spend a lot of my free time pursuing projects that incorporate them.
+I'm a software developer and digital technologist. I'm interested in emerging technologies such as IoT, AI, and Blockchain and spend a lot of my free time pursuing projects that incorporate them.
 
 🚀 Skills
 - IoT system development and deployment at scale
