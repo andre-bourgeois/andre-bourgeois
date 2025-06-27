@@ -1,26 +1,28 @@
 # Hi there! 👋 I'm André
 
-I'm a software developer and digital technologist. I'm interested in emerging technologies such as IoT, AI, and Blockchain and spend a lot of my free time pursuing projects that incorporate them.
+I'm a software developer and solutions architeciect. I'm interested in emerging technologies such as IoT, AI, blockchain, XR, and robotics; with a particular interest in how these technologies help to bridge the gap between physical and digital spaces. I'm passionate about the design and implementation of technology systems in ways that are informed and intentional.
+
+If any of that interests you, read more on my [website](https://andrebourgeois.me) and reach out for a conversation!
 
 🚀 Skills
-- IoT system development and deployment at scale
+- IoT system design, development, and deployment at scale
 - Edge and embedded AI
 - Web application development
+- Rapid prototyping with various tools such as LLMs, Fusion360/3D printer, Eagle
 
 🔭 Currently working on...<br>
-Battling food insecurity by battling dopamine addiction with a new mobile application. I'm building with Expo and React Native and hoping to have a working prototype up and running by the end of 2024.
+- My personal website and branding
+- Making a habit of releasing thought leadership in the form of articles
+- Learning about robotics through a small research project
 
 📡Recent projects...<br>
-Developed an object detection model with Python and Tensorflow to detect the level of occupancy in public bicycle bays. The first iteration of this project was built using the Edge Impulse platform, and you can check it out [here](https://github.com/andrelbourgeois/park-my-bike)! 
+- My personal website and branding are the most recent work I've done
 
 🌱 Learning<br>
-AWS and Azure cloud platforms, before I start looking at Terraform.
-
-💬 Let's chat<br>
-If you want to get in touch, you can find me one my socials below, or you can head to my [personal website](https://www.andrebourgeois.me) to learn more about my work!
+Microsoft Azure, ROS2, Gazebo, Crazyflie
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrelbourgeois) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@andrelbourgeois) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrelbourgeois)
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
