@@ -19,7 +19,11 @@ If any of that interests you, read more on my [website](https://andrebourgeois.m
 - My personal website and branding are the most recent work I've done
 
 🌱 Learning<br>
-Microsoft Azure, ROS2, Gazebo, Crazyflie
+- Microsoft Azure
+- Robotics
+  - ROS2
+  - Gazebo
+  - Crazyflie
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrelbourgeois)
