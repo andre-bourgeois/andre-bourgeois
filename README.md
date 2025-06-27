@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm André
 
-I'm a software developer and solutions architeciect. I'm interested in emerging technologies such as IoT, AI, blockchain, XR, and robotics; with a particular interest in how these technologies help to bridge the gap between physical and digital spaces. I'm passionate about the design and implementation of technology systems in ways that are informed and intentional.
+I'm a software developer and solutions architect with a keen interest in emerging technologies such as IoT, AI, blockchain, XR, and robotics. I'm especially focused on how these tools can help bridge the gap between physical and digital spaces. I’m passionate about designing and implementing technology systems in ways that are both informed and intentional.
 
-If any of that interests you, read more on my [website](https://andrebourgeois.me) and reach out for a conversation!
+If any of that resonates with you, feel free to explore more on my  [website](https://andrebourgeois.me); or reach out for a conversation!
 
 🚀 Skills
 - IoT system design, development, and deployment at scale
