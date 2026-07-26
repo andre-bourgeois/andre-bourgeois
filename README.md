@@ -23,8 +23,8 @@ I help organisations bridge the gap between emerging technology and the real wor
 
 ### 📌 Personal Projects
 
-- **Park My Bike** — edge-AI bicycle detection for cycle parking across London.
-- **IR Occupancy** — low-cost infrared occupancy monitoring with custom PCB.
+- **Park My Bike** - edge-AI bicycle detection for cycle parking across London.
+- **IR Occupancy** - low-cost infrared occupancy monitoring with custom PCB.
 
 ### In Development
 - A Brick Schema-annotated IoT telemetry pipeline
