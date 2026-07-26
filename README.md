@@ -16,6 +16,7 @@ I help organisations bridge the gap between emerging technology and the real wor
 
 ### 🌱 Learning
 
+- AI agent development, deployment, and scaling with Google's ADK
 - Robotics fundamentals (ROS 2, MuJoCo, Habitat, LeRobot)
 - Reinforcement and imitation learning
 - Multi-agent coordination and human-aware systems
